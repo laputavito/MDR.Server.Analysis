@@ -1,0 +1,102 @@
+[2022-12-23 16:14:13] Aanlysis demon thread start.
+[2022-12-23 16:14:13] Aanlysis proc start.
+[2022-12-23 16:14:14] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:14:14] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:14:14] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:14:14] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:14:14] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:14:14] org.postgresql.util.PSQLException: The column name con_from_11 was not found in this ResultSet.
+[2022-12-23 16:14:14] Level evaluate Failed.
+[2022-12-23 16:14:14] Analysis proc end.
+[2022-12-23 16:14:14] Aanlysis demon thread end.
+[2022-12-23 16:15:10] Aanlysis demon thread start.
+[2022-12-23 16:15:10] Aanlysis proc start.
+[2022-12-23 16:15:10] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:15:10] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:15:10] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:15:10] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:15:10] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:15:25] Aanlysis demon thread start.
+[2022-12-23 16:15:25] Aanlysis proc start.
+[2022-12-23 16:15:26] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:15:26] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:15:26] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:15:26] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:15:26] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:17:53] Aanlysis demon thread start.
+[2022-12-23 16:17:53] Aanlysis proc start.
+[2022-12-23 16:17:54] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:17:54] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:17:54] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:17:54] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:17:54] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:22:32] Aanlysis demon thread start.
+[2022-12-23 16:22:32] Aanlysis proc start.
+[2022-12-23 16:22:33] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:22:33] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:22:33] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:22:33] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:22:33] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:22:54] org.postgresql.util.PSQLException: Bad value for type int : 
+[2022-12-23 16:23:12] Aanlysis demon thread start.
+[2022-12-23 16:23:12] Aanlysis proc start.
+[2022-12-23 16:23:13] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:23:13] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:23:13] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:23:13] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:23:13] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:25:26] Aanlysis demon thread start.
+[2022-12-23 16:25:26] Aanlysis proc start.
+[2022-12-23 16:25:26] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:25:26] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:25:26] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:25:26] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:25:26] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:26:07] STEP #3 User Idx Info Update :  40 Sec
+[2022-12-23 16:26:07] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-23 16:26:07] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-23 16:26:07] Evaluate level data proc elapsed time : 40 Sec
+[2022-12-23 16:26:07] Level Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:26:07] Delete data proc elapsed time : 0 Sec
+[2022-12-23 16:26:07] Total data proc elapsed time : 41 Sec
+[2022-12-23 16:26:07] Analysis proc end.
+[2022-12-23 16:26:07] Aanlysis demon thread end.
+[2022-12-23 16:28:09] Aanlysis demon thread start.
+[2022-12-23 16:28:09] Aanlysis proc start.
+[2022-12-23 16:28:09] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:28:09] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:28:09] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:28:09] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:28:09] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:28:10] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-23 16:28:10] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-23 16:28:10] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-23 16:28:10] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-23 16:28:10] Level Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:28:10] Delete data proc elapsed time : 0 Sec
+[2022-12-23 16:28:10] Total data proc elapsed time : 0 Sec
+[2022-12-23 16:28:10] Analysis proc end.
+[2022-12-23 16:28:10] Aanlysis demon thread end.
+[2022-12-23 16:28:57] Aanlysis demon thread start.
+[2022-12-23 16:28:57] Aanlysis proc start.
+[2022-12-23 16:28:57] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:28:57] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:28:57] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:28:57] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:28:58] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:38:24] Aanlysis demon thread start.
+[2022-12-23 16:38:24] Aanlysis proc start.
+[2022-12-23 16:38:25] Extract data proc elapsed time : 0 Sec
+[2022-12-23 16:38:25] Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:38:25] Level etract data proc elapsed time : 0 Sec
+[2022-12-23 16:38:25] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-23 16:38:25] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-23 16:38:37] STEP #3 User Idx Info Update :  12 Sec
+[2022-12-23 16:38:37] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-23 16:38:37] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-23 16:38:37] Evaluate level data proc elapsed time : 12 Sec
+[2022-12-23 16:38:37] Level Summary data proc elapsed time : 0 Sec
+[2022-12-23 16:38:37] Delete data proc elapsed time : 0 Sec
+[2022-12-23 16:38:37] Total data proc elapsed time : 12 Sec
+[2022-12-23 16:38:37] Analysis proc end.
+[2022-12-23 16:38:37] Aanlysis demon thread end.

@@ -1,0 +1,107 @@
+[2019-02-19 12:26:41] 배치 Thread 실행
+[2019-02-19 12:26:42] Analysis Demon이 시작되었습니다...
+[2019-02-19 12:26:49] Extract data proc elapsed time : 6 Sec
+[2019-02-19 12:26:50] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 12:26:51] Evaluate proc 1.
+[2019-02-19 12:26:51] Evaluate proc 2.
+[2019-02-19 12:26:51] Evaluate proc 3.
+[2019-02-19 12:28:32] Evaluate proc 4.
+[2019-02-19 12:28:46] Evaluate proc 5.
+[2019-02-19 12:28:46] Evaluate level data proc elapsed time : 115 Sec
+[2019-02-19 12:29:25] Level Summary data proc elapsed time : 39 Sec
+[2019-02-19 12:29:30] Summary data proc elapsed time : 4 Sec
+[2019-02-19 12:29:30] Total data proc elapsed time : 167 Sec
+[2019-02-19 12:29:30] Analysis proc end.
+[2019-02-19 12:50:44] 배치 Thread 실행
+[2019-02-19 12:50:44] Analysis Demon이 시작되었습니다...
+[2019-02-19 12:50:48] Extract data proc elapsed time : 3 Sec
+[2019-02-19 12:50:50] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 12:50:54] Evaluate proc 1.
+[2019-02-19 12:51:13] Evaluate proc 2.
+[2019-02-19 12:52:25] Evaluate proc 3.
+[2019-02-19 12:54:14] Evaluate proc 4.
+[2019-02-19 12:54:31] Evaluate proc 5.
+[2019-02-19 12:54:31] Evaluate level data proc elapsed time : 221 Sec
+[2019-02-19 12:55:13] Level Summary data proc elapsed time : 42 Sec
+[2019-02-19 12:55:18] Summary data proc elapsed time : 4 Sec
+[2019-02-19 12:55:18] Total data proc elapsed time : 273 Sec
+[2019-02-19 12:55:18] Analysis proc end.
+[2019-02-19 14:36:37] 배치 Thread 실행
+[2019-02-19 14:36:37] Analysis Demon이 시작되었습니다...
+[2019-02-19 14:36:45] Extract data proc elapsed time : 7 Sec
+[2019-02-19 14:36:47] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 14:36:51] Evaluate proc 1.
+[2019-02-19 14:37:04] 배치 Thread 실행
+[2019-02-19 14:37:04] Analysis Demon이 시작되었습니다...
+[2019-02-19 14:37:09] Extract data proc elapsed time : 4 Sec
+[2019-02-19 14:37:11] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 14:37:11] Evaluate proc 1.
+[2019-02-19 14:37:30] Evaluate proc 2.
+[2019-02-19 14:38:34] Evaluate proc 3.
+[2019-02-19 14:40:10] Evaluate proc 4.
+[2019-02-19 14:40:29] Evaluate proc 5.
+[2019-02-19 14:40:29] Evaluate level data proc elapsed time : 198 Sec
+[2019-02-19 14:41:11] Level Summary data proc elapsed time : 42 Sec
+[2019-02-19 14:41:17] Summary data proc elapsed time : 5 Sec
+[2019-02-19 14:41:17] Total data proc elapsed time : 252 Sec
+[2019-02-19 14:41:17] Analysis proc end.
+[2019-02-19 14:44:35] Aanlysis demon thread start.
+[2019-02-19 14:44:35] Aanlysis proc start.
+[2019-02-19 14:44:40] Extract data proc elapsed time : 4 Sec
+[2019-02-19 14:44:41] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 14:44:46] Evaluate proc 1.
+[2019-02-19 14:45:02] Evaluate proc 2.
+[2019-02-19 14:46:12] Evaluate proc 3.
+[2019-02-19 14:47:57] Evaluate proc 4.
+[2019-02-19 14:48:13] Evaluate proc 5.
+[2019-02-19 14:48:13] Evaluate level data proc elapsed time : 211 Sec
+[2019-02-19 14:48:55] Level Summary data proc elapsed time : 42 Sec
+[2019-02-19 14:49:00] Summary data proc elapsed time : 4 Sec
+[2019-02-19 14:49:00] Total data proc elapsed time : 264 Sec
+[2019-02-19 14:49:00] Analysis proc end.
+[2019-02-19 14:49:00] Aanlysis demon thread end.
+[2019-02-19 14:56:56] Aanlysis demon thread start.
+[2019-02-19 14:56:56] Aanlysis proc start.
+[2019-02-19 14:57:00] Extract data proc elapsed time : 3 Sec
+[2019-02-19 14:57:01] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 14:57:05] Evaluate proc 1. : 4 Sec
+[2019-02-19 14:57:25] Evaluate proc 2. : 23 Sec
+[2019-02-19 14:58:33] Evaluate proc 3. : 67 Sec
+[2019-02-19 15:00:13] Evaluate proc 4. : 100 Sec
+[2019-02-19 15:00:28] Evaluate proc 2. : 15 Sec
+[2019-02-19 15:00:28] Evaluate level data proc elapsed time : 206 Sec
+[2019-02-19 15:01:09] Level Summary data proc elapsed time : 41 Sec
+[2019-02-19 15:01:14] Summary data proc elapsed time : 4 Sec
+[2019-02-19 15:01:14] Total data proc elapsed time : 257 Sec
+[2019-02-19 15:01:14] Analysis proc end.
+[2019-02-19 15:01:14] Aanlysis demon thread end.
+[2019-02-19 15:01:39] Aanlysis demon thread start.
+[2019-02-19 15:01:39] Aanlysis proc start.
+[2019-02-19 15:01:44] Extract data proc elapsed time : 4 Sec
+[2019-02-19 15:01:45] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 15:01:49] STEP #1 Evaluate data delete : 3 Sec
+[2019-02-19 15:02:05] STEP #2 User Idx info Insert : 19 Sec
+[2019-02-19 15:03:09] STEP #3 User Idx Info Update :  64 Sec
+[2019-02-19 15:04:53] STEP #4 User Idx Info Exception proc : 103 Sec
+[2019-02-19 15:05:09] STEP #5 User Idx Info Day Insert : 16 Sec
+[2019-02-19 15:05:09] Evaluate level data proc elapsed time : 203 Sec
+[2019-02-19 15:05:51] Level Summary data proc elapsed time : 42 Sec
+[2019-02-19 15:05:56] Summary data proc elapsed time : 4 Sec
+[2019-02-19 15:05:56] Total data proc elapsed time : 256 Sec
+[2019-02-19 15:05:56] Analysis proc end.
+[2019-02-19 15:05:56] Aanlysis demon thread end.
+[2019-02-19 15:07:05] Aanlysis demon thread start.
+[2019-02-19 15:07:05] Aanlysis proc start.
+[2019-02-19 15:07:10] Extract data proc elapsed time : 4 Sec
+[2019-02-19 15:07:15] Summary data proc elapsed time : 4 Sec
+[2019-02-19 15:07:17] Level etract data proc elapsed time : 1 Sec
+[2019-02-19 15:07:21] STEP #1 Evaluate data delete : 4 Sec
+[2019-02-19 15:07:38] STEP #2 User Idx info Insert : 21 Sec
+[2019-02-19 15:08:37] STEP #3 User Idx Info Update :  58 Sec
+[2019-02-19 15:10:20] STEP #4 User Idx Info Exception proc : 103 Sec
+[2019-02-19 15:10:36] STEP #5 User Idx Info Day Insert : 15 Sec
+[2019-02-19 15:10:36] Evaluate level data proc elapsed time : 198 Sec
+[2019-02-19 15:11:18] Level Summary data proc elapsed time : 42 Sec
+[2019-02-19 15:11:18] Total data proc elapsed time : 251 Sec
+[2019-02-19 15:11:18] Analysis proc end.
+[2019-02-19 15:11:18] Aanlysis demon thread end.

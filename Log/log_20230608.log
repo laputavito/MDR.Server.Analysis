@@ -1,0 +1,16 @@
+[2023-06-08 14:22:15] Aanlysis demon thread start.
+[2023-06-08 14:22:15] Aanlysis proc start.
+[2023-06-08 14:22:17] Extract data proc elapsed time : 0 Sec
+[2023-06-08 14:22:17] Summary data proc elapsed time : 0 Sec
+[2023-06-08 14:22:17] Level etract data proc elapsed time : 0 Sec
+[2023-06-08 14:22:17] STEP #1 Evaluate data delete : 0 Sec
+[2023-06-08 14:22:17] STEP #2 User Idx info Insert : 0 Sec
+[2023-06-08 14:22:17] STEP #3 User Idx Info Update :  0 Sec
+[2023-06-08 14:22:17] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-06-08 14:22:17] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-06-08 14:22:17] Evaluate level data proc elapsed time : 0 Sec
+[2023-06-08 14:22:17] Level Summary data proc elapsed time : 0 Sec
+[2023-06-08 14:22:18] Delete data proc elapsed time : 0 Sec
+[2023-06-08 14:22:18] Total data proc elapsed time : 1 Sec
+[2023-06-08 14:22:18] Analysis proc end.
+[2023-06-08 14:22:18] Aanlysis demon thread end.

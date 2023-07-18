@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="pldm/server/collector/main/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/jsch-0.1.54.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/postgresql-9.4-1202.jdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/sqljdbc41.jar"/>
+	<classpathentry kind="lib" path="D:/eGovFrame/lib/syslog4j-0.9.46-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,92 @@
+[2019-02-13 14:21:58] 배치 Thread 실행
+[2019-02-13 14:21:58] Analysis Demon이 시작되었습니다...
+[2019-02-13 14:21:59] Extract data proc elapsed time : 950
+[2019-02-13 14:22:01] Level etract data proc elapsed time : 1728
+[2019-02-13 14:23:43] Evaluate level data proc elapsed time : 102016
+[2019-02-13 14:23:43] Level Summary data proc elapsed time : 119
+[2019-02-13 14:23:43] Summary data proc elapsed time : 114
+[2019-02-13 14:34:22] 배치 Thread 실행
+[2019-02-13 14:34:22] Analysis Demon이 시작되었습니다...
+[2019-02-13 14:34:24] org.postgresql.util.PSQLException: ERROR: value too long for type character varying(8)
+[2019-02-13 14:34:24] Extract Failed.
+[2019-02-13 14:38:47] 배치 Thread 실행
+[2019-02-13 14:38:47] Analysis Demon이 시작되었습니다...
+[2019-02-13 14:38:51] Extract data proc elapsed time : 3148
+[2019-02-13 14:38:53] Level etract data proc elapsed time : 1514
+[2019-02-13 14:40:37] Evaluate level data proc elapsed time : 104550
+[2019-02-13 14:40:37] Level Summary data proc elapsed time : 160
+[2019-02-13 14:40:41] Summary data proc elapsed time : 3458
+[2019-02-13 16:18:09] 배치 Thread 실행
+[2019-02-13 16:18:09] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:18:13] Extract data proc elapsed time : 3405
+[2019-02-13 16:18:14] Level etract data proc elapsed time : 1502
+[2019-02-13 16:18:36] 배치 Thread 실행
+[2019-02-13 16:18:36] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:18:42] Extract data proc elapsed time : 5859
+[2019-02-13 16:18:44] Level etract data proc elapsed time : 1539
+[2019-02-13 16:19:00] 배치 Thread 실행
+[2019-02-13 16:19:00] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:19:07] Extract data proc elapsed time : 5931
+[2019-02-13 16:19:09] Level etract data proc elapsed time : 1537
+[2019-02-13 16:22:39] Evaluate level data proc elapsed time : 209977
+[2019-02-13 16:22:39] Level Summary data proc elapsed time : 111
+[2019-02-13 16:22:44] Summary data proc elapsed time : 5495
+[2019-02-13 16:46:15] 배치 Thread 실행
+[2019-02-13 16:46:15] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:46:28] 배치 Thread 실행
+[2019-02-13 16:46:28] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:46:33] Extract data proc elapsed time : 3942
+[2019-02-13 16:47:31] 배치 Thread 실행
+[2019-02-13 16:47:31] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:49:32] 배치 Thread 실행
+[2019-02-13 16:49:32] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:53:02] 배치 Thread 실행
+[2019-02-13 16:53:02] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:57:51] 배치 Thread 실행
+[2019-02-13 16:57:51] Analysis Demon이 시작되었습니다...
+[2019-02-13 16:57:51] org.postgresql.util.PSQLException: Operation requires a scrollable ResultSet, but this ResultSet is FORWARD_ONLY.
+[2019-02-13 16:57:51] Extract Failed.
+[2019-02-13 17:01:23] 배치 Thread 실행
+[2019-02-13 17:01:23] Analysis Demon이 시작되었습니다...
+[2019-02-13 17:01:28] Extract data proc elapsed time : 4350
+[2019-02-13 17:01:30] Level etract data proc elapsed time : 1536
+[2019-02-13 17:46:55] Evaluate level data proc elapsed time : 2725042
+[2019-02-13 17:46:55] Level Summary data proc elapsed time : 107
+[2019-02-13 17:47:01] Summary data proc elapsed time : 6474
+[2019-02-13 17:47:21] 배치 Thread 실행
+[2019-02-13 17:47:21] Analysis Demon이 시작되었습니다...
+[2019-02-13 17:47:27] Extract data proc elapsed time : 5097
+[2019-02-13 17:47:29] Level etract data proc elapsed time : 1554
+[2019-02-13 17:50:49] Evaluate level data proc elapsed time : 200758
+[2019-02-13 17:50:50] Level Summary data proc elapsed time : 118
+[2019-02-13 17:50:57] Summary data proc elapsed time : 6967
+[2019-02-13 18:26:25] 배치 Thread 실행
+[2019-02-13 18:26:25] Analysis Demon이 시작되었습니다...
+[2019-02-13 18:26:35] Extract data proc elapsed time : 9766
+[2019-02-13 18:26:37] Level etract data proc elapsed time : 1568
+[2019-02-13 18:29:50] Evaluate level data proc elapsed time : 193095
+[2019-02-13 18:29:50] Level Summary data proc elapsed time : 114
+[2019-02-13 18:29:55] Summary data proc elapsed time : 4784
+[2019-02-13 18:35:21] 배치 Thread 실행
+[2019-02-13 18:35:21] Analysis Demon이 시작되었습니다...
+[2019-02-13 18:35:26] Extract data proc elapsed time : 4986
+[2019-02-13 18:35:28] Level etract data proc elapsed time : 1572
+[2019-02-13 18:39:01] Evaluate level data proc elapsed time : 213070
+[2019-02-13 18:39:01] Level Summary data proc elapsed time : 110
+[2019-02-13 18:39:05] Summary data proc elapsed time : 4091
+[2019-02-13 18:54:39] 배치 Thread 실행
+[2019-02-13 18:54:39] Analysis Demon이 시작되었습니다...
+[2019-02-13 18:54:48] Extract data proc elapsed time : 7 초
+[2019-02-13 18:54:50] Level etract data proc elapsed time : 1 초
+[2019-02-13 18:58:42] Evaluate level data proc elapsed time : 232 초
+[2019-02-13 18:58:42] Level Summary data proc elapsed time : 0 초
+[2019-02-13 18:58:47] Summary data proc elapsed time : 4 초
+[2019-02-13 18:58:47] Total data proc elapsed time : 4 초
+[2019-02-13 18:59:34] 배치 Thread 실행
+[2019-02-13 18:59:34] Analysis Demon이 시작되었습니다...
+[2019-02-13 18:59:40] Extract data proc elapsed time : 5 Sec
+[2019-02-13 18:59:42] Level etract data proc elapsed time : 1 Sec
+[2019-02-13 19:03:44] Evaluate level data proc elapsed time : 241 Sec
+[2019-02-13 19:03:44] Level Summary data proc elapsed time : 0 Sec
+[2019-02-13 19:03:48] Summary data proc elapsed time : 4 Sec
+[2019-02-13 19:03:48] Total data proc elapsed time : 4 Sec

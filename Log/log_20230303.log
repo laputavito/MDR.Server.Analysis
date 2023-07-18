@@ -1,0 +1,126 @@
+[2023-03-03 10:22:18] Aanlysis demon thread start.
+[2023-03-03 10:22:18] Aanlysis proc start.
+[2023-03-03 10:22:19] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:22:19] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:22:19] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:22:19] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:22:19] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:22:19] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:22:19] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:22:19] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:22:19] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:22:19] java.lang.NumberFormatException: For input string: "level"
+[2023-03-03 10:22:19] Level Summary Failed.
+[2023-03-03 10:22:19] Analysis proc end.
+[2023-03-03 10:22:19] Aanlysis demon thread end.
+[2023-03-03 10:23:33] Aanlysis demon thread start.
+[2023-03-03 10:23:33] Aanlysis proc start.
+[2023-03-03 10:23:33] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:23:33] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:23:36] Level etract data proc elapsed time : 2 Sec
+[2023-03-03 10:23:37] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:23:37] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:23:37] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:23:37] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:23:37] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:23:37] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:23:38] Level Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:23:38] Delete data proc elapsed time : 0 Sec
+[2023-03-03 10:23:38] Total data proc elapsed time : 4 Sec
+[2023-03-03 10:23:38] Analysis proc end.
+[2023-03-03 10:23:38] Aanlysis demon thread end.
+[2023-03-03 10:24:06] Aanlysis demon thread start.
+[2023-03-03 10:24:06] Aanlysis proc start.
+[2023-03-03 10:24:07] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:24:07] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:24:07] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:24:07] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:24:07] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:24:07] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:24:07] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:24:07] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:24:07] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:24:07] org.postgresql.util.PSQLException: 오류: 중복된 키 값이 "pk_org_sum_info" 고유 제약 조건을 위반함
+  Detail: (sum_rgdt_date, org_code)=(20230302, 1000) 키가 이미 있습니다.
+[2023-03-03 10:24:07] Level Summary Failed.
+[2023-03-03 10:24:07] Analysis proc end.
+[2023-03-03 10:24:07] Aanlysis demon thread end.
+[2023-03-03 10:25:03] Aanlysis demon thread start.
+[2023-03-03 10:25:03] Aanlysis proc start.
+[2023-03-03 10:25:04] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:25:04] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:25:04] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:25:04] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:25:04] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:25:04] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:25:04] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:25:04] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:25:04] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:25:04] org.postgresql.util.PSQLException: 오류: 중복된 키 값이 "pk_org_sum_info" 고유 제약 조건을 위반함
+  Detail: (sum_rgdt_date, org_code)=(20230302, 1000) 키가 이미 있습니다.
+[2023-03-03 10:25:04] Level Summary Failed.
+[2023-03-03 10:25:04] Analysis proc end.
+[2023-03-03 10:25:04] Aanlysis demon thread end.
+[2023-03-03 10:26:32] Aanlysis demon thread start.
+[2023-03-03 10:26:32] Aanlysis proc start.
+[2023-03-03 10:26:32] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:26:32] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:26:32] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:26:32] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:26:32] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:26:32] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:26:32] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:26:32] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:26:32] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:26:32] java.lang.NumberFormatException: For input string: "level"
+[2023-03-03 10:26:32] Level Summary Failed.
+[2023-03-03 10:26:32] Analysis proc end.
+[2023-03-03 10:26:32] Aanlysis demon thread end.
+[2023-03-03 10:27:07] Aanlysis demon thread start.
+[2023-03-03 10:27:07] Aanlysis proc start.
+[2023-03-03 10:27:07] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:27:08] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:27:08] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:27:08] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:27:08] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:27:08] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:27:08] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:27:08] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:27:08] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:27:08] org.postgresql.util.PSQLException: 오류: 중복된 키 값이 "pk_org_sum_info" 고유 제약 조건을 위반함
+  Detail: (sum_rgdt_date, org_code)=(20230302, 1000) 키가 이미 있습니다.
+[2023-03-03 10:27:08] Level Summary Failed.
+[2023-03-03 10:27:08] Analysis proc end.
+[2023-03-03 10:27:08] Aanlysis demon thread end.
+[2023-03-03 10:27:19] Aanlysis demon thread start.
+[2023-03-03 10:27:19] Aanlysis proc start.
+[2023-03-03 10:27:19] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:27:19] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:27:20] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:27:20] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:27:20] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:27:20] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:27:20] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] Level Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] Delete data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] Total data proc elapsed time : 0 Sec
+[2023-03-03 10:27:20] Analysis proc end.
+[2023-03-03 10:27:20] Aanlysis demon thread end.
+[2023-03-03 10:34:04] Aanlysis demon thread start.
+[2023-03-03 10:34:04] Aanlysis proc start.
+[2023-03-03 10:34:05] Extract data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Level etract data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] STEP #1 Evaluate data delete : 0 Sec
+[2023-03-03 10:34:05] STEP #2 User Idx info Insert : 0 Sec
+[2023-03-03 10:34:05] STEP #3 User Idx Info Update :  0 Sec
+[2023-03-03 10:34:05] STEP #4 User Idx Info Exception proc : 0 Sec
+[2023-03-03 10:34:05] STEP #5 User Idx Info Day Insert : 0 Sec
+[2023-03-03 10:34:05] Evaluate level data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Level Summary data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Delete data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Total data proc elapsed time : 0 Sec
+[2023-03-03 10:34:05] Analysis proc end.
+[2023-03-03 10:34:05] Aanlysis demon thread end.

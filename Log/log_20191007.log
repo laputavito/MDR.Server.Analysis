@@ -1,0 +1,20 @@
+[2019-10-07 10:37:11] Aanlysis demon thread start.
+[2019-10-07 10:37:11] Aanlysis proc start.
+[2019-10-07 10:37:32] org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:247)
+org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:65)
+org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:146)
+org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:35)
+org.postgresql.jdbc3g.AbstractJdbc3gConnection.<init>(AbstractJdbc3gConnection.java:22)
+org.postgresql.jdbc4.AbstractJdbc4Connection.<init>(AbstractJdbc4Connection.java:47)
+org.postgresql.jdbc4.Jdbc4Connection.<init>(Jdbc4Connection.java:30)
+org.postgresql.Driver.makeConnection(Driver.java:414)
+org.postgresql.Driver.connect(Driver.java:282)
+java.sql.DriverManager.getConnection(DriverManager.java:664)
+java.sql.DriverManager.getConnection(DriverManager.java:247)
+mdr.server.analysis.db.ConnectionPLDM.initialize(ConnectionPLDM.java:58)
+mdr.server.analysis.db.ConnectionPLDM.<init>(ConnectionPLDM.java:26)
+mdr.server.analysis.db.ConnectionPLDM.getPLDMInstance(ConnectionPLDM.java:48)
+mdr.server.analysis.main.AnalysisDemon.run(AnalysisDemon.java:40)
+java.lang.Thread.run(Thread.java:748)
+
+[2019-10-07 10:37:32] Aanlysis demon thread end.

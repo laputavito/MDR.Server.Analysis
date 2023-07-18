@@ -1,0 +1,32 @@
+[2021-06-28 18:25:04] Aanlysis demon thread start.
+[2021-06-28 18:25:04] Aanlysis proc start.
+[2021-06-28 18:25:05] Extract data proc elapsed time : 0 Sec
+[2021-06-28 18:25:05] Summary data proc elapsed time : 0 Sec
+[2021-06-28 18:25:05] Level etract data proc elapsed time : 0 Sec
+[2021-06-28 18:25:05] STEP #1 Evaluate data delete : 0 Sec
+[2021-06-28 18:25:05] STEP #2 User Idx info Insert : 0 Sec
+[2021-06-28 18:25:05] STEP #3 User Idx Info Update :  0 Sec
+[2021-06-28 18:25:05] STEP #4 User Idx Info Exception proc : 0 Sec
+[2021-06-28 18:25:05] STEP #5 User Idx Info Day Insert : 0 Sec
+[2021-06-28 18:25:05] Evaluate level data proc elapsed time : 0 Sec
+[2021-06-28 18:25:06] Level Summary data proc elapsed time : 0 Sec
+[2021-06-28 18:25:14] Delete data proc elapsed time : 7 Sec
+[2021-06-28 18:25:14] Total data proc elapsed time : 8 Sec
+[2021-06-28 18:25:14] Analysis proc end.
+[2021-06-28 18:25:14] Aanlysis demon thread end.
+[2021-06-28 18:37:23] Aanlysis demon thread start.
+[2021-06-28 18:37:23] Aanlysis proc start.
+[2021-06-28 18:37:23] Extract data proc elapsed time : 0 Sec
+[2021-06-28 18:37:23] Summary data proc elapsed time : 0 Sec
+[2021-06-28 18:37:24] Level etract data proc elapsed time : 0 Sec
+[2021-06-28 18:37:24] STEP #1 Evaluate data delete : 0 Sec
+[2021-06-28 18:37:24] STEP #2 User Idx info Insert : 0 Sec
+[2021-06-28 18:37:24] STEP #3 User Idx Info Update :  0 Sec
+[2021-06-28 18:37:24] STEP #4 User Idx Info Exception proc : 0 Sec
+[2021-06-28 18:37:24] STEP #5 User Idx Info Day Insert : 0 Sec
+[2021-06-28 18:37:24] Evaluate level data proc elapsed time : 0 Sec
+[2021-06-28 18:37:24] Level Summary data proc elapsed time : 0 Sec
+[2021-06-28 18:38:11] Delete data proc elapsed time : 47 Sec
+[2021-06-28 18:38:11] Total data proc elapsed time : 48 Sec
+[2021-06-28 18:38:11] Analysis proc end.
+[2021-06-28 18:38:11] Aanlysis demon thread end.

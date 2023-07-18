@@ -1,0 +1,56 @@
+[2019-02-14 11:41:44] 배치 Thread 실행
+[2019-02-14 11:41:44] Analysis Demon이 시작되었습니다...
+[2019-02-14 11:41:52] Extract data proc elapsed time : 7 Sec
+[2019-02-14 11:41:54] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 11:45:35] Evaluate level data proc elapsed time : 220 Sec
+[2019-02-14 11:45:35] Level Summary data proc elapsed time : 0 Sec
+[2019-02-14 11:45:39] Summary data proc elapsed time : 4 Sec
+[2019-02-14 11:45:39] Total data proc elapsed time : 4 Sec
+[2019-02-14 11:59:33] 배치 Thread 실행
+[2019-02-14 11:59:33] Analysis Demon이 시작되었습니다...
+[2019-02-14 11:59:37] Extract data proc elapsed time : 4 Sec
+[2019-02-14 11:59:39] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 12:02:50] Evaluate level data proc elapsed time : 190 Sec
+[2019-02-14 12:02:50] Level Summary data proc elapsed time : 0 Sec
+[2019-02-14 12:02:54] Summary data proc elapsed time : 3 Sec
+[2019-02-14 12:02:54] Total data proc elapsed time : 3 Sec
+[2019-02-14 14:26:57] 배치 Thread 실행
+[2019-02-14 14:26:57] Analysis Demon이 시작되었습니다...
+[2019-02-14 14:27:02] Extract data proc elapsed time : 4 Sec
+[2019-02-14 14:27:04] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 14:30:37] Evaluate level data proc elapsed time : 213 Sec
+[2019-02-14 14:30:38] Level Summary data proc elapsed time : 0 Sec
+[2019-02-14 14:30:42] Summary data proc elapsed time : 4 Sec
+[2019-02-14 14:30:42] Total data proc elapsed time : 4 Sec
+[2019-02-14 16:43:54] 배치 Thread 실행
+[2019-02-14 16:43:54] Analysis Demon이 시작되었습니다...
+[2019-02-14 16:43:58] Extract data proc elapsed time : 3 Sec
+[2019-02-14 16:44:00] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 16:47:13] Evaluate level data proc elapsed time : 193 Sec
+[2019-02-14 16:47:14] org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "pk_total_sum_info"
+  Detail: Key (sum_rgdt_date, org_code)=(20190213, 10001) already exists.
+[2019-02-14 16:47:14] Level Summary Failed.
+[2019-02-14 17:41:39] 배치 Thread 실행
+[2019-02-14 17:41:39] Analysis Demon이 시작되었습니다...
+[2019-02-14 17:41:43] Extract data proc elapsed time : 3 Sec
+[2019-02-14 17:41:45] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 17:44:55] Evaluate level data proc elapsed time : 190 Sec
+[2019-02-14 17:44:55] org.postgresql.util.PSQLException: ERROR: syntax error at or near "SELECT"
+  Position: 180
+[2019-02-14 17:44:55] Level Summary Failed.
+[2019-02-14 17:45:29] 배치 Thread 실행
+[2019-02-14 17:45:29] Analysis Demon이 시작되었습니다...
+[2019-02-14 17:45:35] Extract data proc elapsed time : 5 Sec
+[2019-02-14 17:45:36] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 17:48:58] Evaluate level data proc elapsed time : 201 Sec
+[2019-02-14 17:49:13] Level Summary data proc elapsed time : 15 Sec
+[2019-02-14 17:49:17] Summary data proc elapsed time : 3 Sec
+[2019-02-14 17:49:17] Total data proc elapsed time : 3 Sec
+[2019-02-14 18:48:23] 배치 Thread 실행
+[2019-02-14 18:48:23] Analysis Demon이 시작되었습니다...
+[2019-02-14 18:48:32] Extract data proc elapsed time : 7 Sec
+[2019-02-14 18:48:33] Level etract data proc elapsed time : 1 Sec
+[2019-02-14 18:52:25] Evaluate level data proc elapsed time : 231 Sec
+[2019-02-14 18:53:16] Level Summary data proc elapsed time : 50 Sec
+[2019-02-14 18:53:21] Summary data proc elapsed time : 5 Sec
+[2019-02-14 18:53:21] Total data proc elapsed time : 5 Sec

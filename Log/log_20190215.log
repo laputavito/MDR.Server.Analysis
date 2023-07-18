@@ -1,0 +1,35 @@
+[2019-02-15 09:54:39] 배치 Thread 실행
+[2019-02-15 09:54:39] Analysis Demon이 시작되었습니다...
+[2019-02-15 09:54:45] Extract data proc elapsed time : 5 Sec
+[2019-02-15 09:54:47] Level etract data proc elapsed time : 1 Sec
+[2019-02-15 09:56:42] Evaluate level data proc elapsed time : 115 Sec
+[2019-02-15 09:57:22] Level Summary data proc elapsed time : 39 Sec
+[2019-02-15 09:57:24] Summary data proc elapsed time : 2 Sec
+[2019-02-15 09:57:24] Total data proc elapsed time : 2 Sec
+[2019-02-15 11:35:56] 배치 Thread 실행
+[2019-02-15 11:35:56] Analysis Demon이 시작되었습니다...
+[2019-02-15 11:36:00] Extract data proc elapsed time : 3 Sec
+[2019-02-15 11:36:02] Level etract data proc elapsed time : 1 Sec
+[2019-02-15 11:39:14] Evaluate level data proc elapsed time : 192 Sec
+[2019-02-15 11:39:57] Level Summary data proc elapsed time : 43 Sec
+[2019-02-15 11:40:00] Summary data proc elapsed time : 3 Sec
+[2019-02-15 11:40:00] Total data proc elapsed time : 3 Sec
+[2019-02-15 11:40:00] Analysis proc end.
+[2019-02-15 14:39:27] 배치 Thread 실행
+[2019-02-15 14:39:27] Analysis Demon이 시작되었습니다...
+[2019-02-15 14:39:32] Extract data proc elapsed time : 4 Sec
+[2019-02-15 14:39:34] Level etract data proc elapsed time : 1 Sec
+[2019-02-15 14:42:12] Evaluate level data proc elapsed time : 158 Sec
+[2019-02-15 14:42:56] Level Summary data proc elapsed time : 43 Sec
+[2019-02-15 14:42:59] Summary data proc elapsed time : 3 Sec
+[2019-02-15 14:43:00] Total data proc elapsed time : 3 Sec
+[2019-02-15 14:43:00] Analysis proc end.
+[2019-02-15 14:46:54] 배치 Thread 실행
+[2019-02-15 14:46:54] Analysis Demon이 시작되었습니다...
+[2019-02-15 14:46:58] Extract data proc elapsed time : 3 Sec
+[2019-02-15 14:46:59] Level etract data proc elapsed time : 1 Sec
+[2019-02-15 14:50:13] Evaluate level data proc elapsed time : 193 Sec
+[2019-02-15 14:50:56] Level Summary data proc elapsed time : 42 Sec
+[2019-02-15 14:51:00] Summary data proc elapsed time : 4 Sec
+[2019-02-15 14:51:00] Total data proc elapsed time : 4 Sec
+[2019-02-15 14:51:00] Analysis proc end.

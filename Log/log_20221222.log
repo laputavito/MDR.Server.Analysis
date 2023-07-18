@@ -1,0 +1,108 @@
+[2022-12-22 11:08:19] Aanlysis demon thread start.
+[2022-12-22 11:08:19] Aanlysis proc start.
+[2022-12-22 11:08:19] Extract data proc elapsed time : 0 Sec
+[2022-12-22 11:08:19] Summary data proc elapsed time : 0 Sec
+[2022-12-22 11:08:19] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 11:08:19] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 11:08:19] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 11:08:19] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 11:08:19] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 11:08:19] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 11:08:19] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 11:08:19] java.lang.NumberFormatException: null
+[2022-12-22 11:08:19] Level Summary Failed.
+[2022-12-22 11:08:19] Analysis proc end.
+[2022-12-22 11:08:19] Aanlysis demon thread end.
+[2022-12-22 11:13:22] Aanlysis demon thread start.
+[2022-12-22 11:13:22] Aanlysis proc start.
+[2022-12-22 11:13:22] Extract data proc elapsed time : 0 Sec
+[2022-12-22 11:13:22] Summary data proc elapsed time : 0 Sec
+[2022-12-22 11:13:22] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 11:13:22] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 11:13:22] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 11:13:22] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 11:13:22] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 11:13:22] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 11:13:22] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 11:13:22] java.lang.NumberFormatException: null
+[2022-12-22 11:13:22] Level Summary Failed.
+[2022-12-22 11:13:22] Analysis proc end.
+[2022-12-22 11:13:22] Aanlysis demon thread end.
+[2022-12-22 11:29:57] Aanlysis demon thread start.
+[2022-12-22 11:29:57] Aanlysis proc start.
+[2022-12-22 11:29:57] Extract data proc elapsed time : 0 Sec
+[2022-12-22 11:29:57] Summary data proc elapsed time : 0 Sec
+[2022-12-22 11:29:57] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 11:29:57] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 11:29:57] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 11:29:57] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 11:29:57] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 11:29:57] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 11:29:57] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 11:29:57] java.lang.NumberFormatException: null
+[2022-12-22 11:29:57] Level Summary Failed.
+[2022-12-22 11:29:57] Analysis proc end.
+[2022-12-22 11:29:57] Aanlysis demon thread end.
+[2022-12-22 11:31:08] Aanlysis demon thread start.
+[2022-12-22 11:31:08] Aanlysis proc start.
+[2022-12-22 11:31:09] Extract data proc elapsed time : 0 Sec
+[2022-12-22 11:31:09] Summary data proc elapsed time : 0 Sec
+[2022-12-22 11:31:09] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 11:31:09] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 11:31:09] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 11:31:09] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 11:31:09] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 11:31:09] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 11:31:09] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 11:31:09] java.lang.NumberFormatException: null
+[2022-12-22 11:31:09] Level Summary Failed.
+[2022-12-22 11:31:09] Analysis proc end.
+[2022-12-22 11:31:09] Aanlysis demon thread end.
+[2022-12-22 14:20:23] Aanlysis demon thread start.
+[2022-12-22 14:20:23] Aanlysis proc start.
+[2022-12-22 14:20:23] Extract data proc elapsed time : 0 Sec
+[2022-12-22 14:20:23] Summary data proc elapsed time : 0 Sec
+[2022-12-22 14:20:23] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 14:20:23] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 14:20:23] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 14:20:23] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 14:20:23] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 14:20:23] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 14:20:23] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 14:20:23] Level Summary data proc elapsed time : 0 Sec
+[2022-12-22 14:20:24] Delete data proc elapsed time : 0 Sec
+[2022-12-22 14:20:24] Total data proc elapsed time : 0 Sec
+[2022-12-22 14:20:24] Analysis proc end.
+[2022-12-22 14:20:24] Aanlysis demon thread end.
+[2022-12-22 14:25:50] Aanlysis demon thread start.
+[2022-12-22 14:25:50] Aanlysis proc start.
+[2022-12-22 14:25:51] Extract data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Summary data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 14:25:51] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 14:25:51] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 14:25:51] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 14:25:51] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 14:25:51] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Level Summary data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Delete data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Total data proc elapsed time : 0 Sec
+[2022-12-22 14:25:51] Analysis proc end.
+[2022-12-22 14:25:51] Aanlysis demon thread end.
+[2022-12-22 14:44:42] Aanlysis demon thread start.
+[2022-12-22 14:44:42] Aanlysis proc start.
+[2022-12-22 14:44:43] Extract data proc elapsed time : 1 Sec
+[2022-12-22 14:44:45] Summary data proc elapsed time : 1 Sec
+[2022-12-22 14:44:46] Level etract data proc elapsed time : 0 Sec
+[2022-12-22 14:44:46] STEP #1 Evaluate data delete : 0 Sec
+[2022-12-22 14:44:46] STEP #2 User Idx info Insert : 0 Sec
+[2022-12-22 14:44:46] STEP #3 User Idx Info Update :  0 Sec
+[2022-12-22 14:44:46] STEP #4 User Idx Info Exception proc : 0 Sec
+[2022-12-22 14:44:46] STEP #5 User Idx Info Day Insert : 0 Sec
+[2022-12-22 14:44:46] Evaluate level data proc elapsed time : 0 Sec
+[2022-12-22 14:44:46] Level Summary data proc elapsed time : 0 Sec
+[2022-12-22 14:44:46] Delete data proc elapsed time : 0 Sec
+[2022-12-22 14:44:46] Total data proc elapsed time : 3 Sec
+[2022-12-22 14:44:46] Analysis proc end.
+[2022-12-22 14:44:46] Aanlysis demon thread end.

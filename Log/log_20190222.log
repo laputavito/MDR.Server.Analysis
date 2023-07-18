@@ -1,0 +1,15 @@
+[2019-02-22 13:16:26] Aanlysis demon thread start.
+[2019-02-22 13:16:26] Aanlysis proc start.
+[2019-02-22 13:16:31] Extract data proc elapsed time : 4 Sec
+[2019-02-22 13:16:37] Summary data proc elapsed time : 6 Sec
+[2019-02-22 13:16:39] Level etract data proc elapsed time : 1 Sec
+[2019-02-22 13:16:43] STEP #1 Evaluate data delete : 4 Sec
+[2019-02-22 13:17:00] STEP #2 User Idx info Insert : 21 Sec
+[2019-02-22 13:18:01] STEP #3 User Idx Info Update :  61 Sec
+[2019-02-22 13:19:54] STEP #4 User Idx Info Exception proc : 112 Sec
+[2019-02-22 13:20:11] STEP #5 User Idx Info Day Insert : 16 Sec
+[2019-02-22 13:20:11] Evaluate level data proc elapsed time : 211 Sec
+[2019-02-22 13:20:54] Level Summary data proc elapsed time : 43 Sec
+[2019-02-22 13:20:54] Total data proc elapsed time : 267 Sec
+[2019-02-22 13:20:54] Analysis proc end.
+[2019-02-22 13:20:54] Aanlysis demon thread end.
